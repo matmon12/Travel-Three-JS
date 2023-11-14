@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old pier (Game ready)
+* source:	https://sketchfab.com/3d-models/old-pier-game-ready-3c21842960a74452a13609a584f38762
+* author:	PT34 (https://sketchfab.com/PT34)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old pier (Game ready)" (https://sketchfab.com/3d-models/old-pier-game-ready-3c21842960a74452a13609a584f38762) by PT34 (https://sketchfab.com/PT34) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
